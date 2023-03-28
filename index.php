@@ -385,7 +385,7 @@ function hg_request($parametros, $chave = null, $endpoint = 'weather')
 		<div id="portfoliolist">
 			<div class="portfolio logo1 mix_all" data-cat="logo" style="display: inline-block; opacity: 1;">
 				<div class="portfolio-wrapper">
-					<a data-toggle="modal" data-target=".bs-example-modal-md" href="https://blog.consultoriawk.com/my-car-2023/" class="b-link-stripe b-animate-go  thickbox">
+					<a data-toggle="modal2" data-target=".bs-example-modal-md" href="https://blog.consultoriawk.com/my-car-2023/" class="b-link-stripe b-animate-go  thickbox">
 						<img src="images/MyCar.PNG" />
 						<div class="b-wrapper">
 							<h2 class="b-animate b-from-left    b-delay03 "><img src="images/link-ico.png" alt="" /></h2>
@@ -395,7 +395,7 @@ function hg_request($parametros, $chave = null, $endpoint = 'weather')
 			</div>
 			<div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
 				<div class="portfolio-wrapper">
-					<a data-toggle="modal" data-target=".bs-example-modal-md" href="https://intelligence.lojaimportados.com.br/" class="b-link-stripe b-animate-go  thickbox">
+					<a data-toggle="modal2" data-target=".bs-example-modal-md" href="https://intelligence.lojaimportados.com.br/" class="b-link-stripe b-animate-go  thickbox">
 						<img src="images/intelligence.PNG" />
 						<div class="b-wrapper">
 							<h2 class="b-animate b-from-left    b-delay03 "><img src="images/link-ico.png" alt="" /></h2>
@@ -405,7 +405,7 @@ function hg_request($parametros, $chave = null, $endpoint = 'weather')
 			</div>
 			<div class="portfolio web mix_all" data-cat="web" style="display: inline-block; opacity: 1;">
 				<div class="portfolio-wrapper">
-					<a data-toggle="modal" data-target=".bs-example-modal-md" href="https://www.lojaimportadosbr.com.br/" class="b-link-stripe b-animate-go  thickbox">
+					<a data-toggle="modal2" data-target=".bs-example-modal-md" href="https://www.lojaimportadosbr.com.br/" class="b-link-stripe b-animate-go  thickbox">
 						<img src="images/loja_importados.PNG" />
 						<div class="b-wrapper">
 							<h2 class="b-animate b-from-left    b-delay03 "><img src="images/link-ico.png" alt="" /></h2>
@@ -415,7 +415,7 @@ function hg_request($parametros, $chave = null, $endpoint = 'weather')
 			</div>
 			<div class="portfolio icon mix_all" data-cat="icon" style="display: inline-block; opacity: 1;">
 				<div class="portfolio-wrapper">
-					<a data-toggle="modal" data-target=".bs-example-modal-md" href="https://woog1.bubbleapps.io/version-test/" class="b-link-stripe b-animate-go  thickbox">
+					<a data-toggle="modal2" data-target=".bs-example-modal-md" href="https://woog1.bubbleapps.io/version-test/" class="b-link-stripe b-animate-go  thickbox">
 						<img src="images/woog.PNG" />
 						<div class="b-wrapper">
 							<h2 class="b-animate b-from-left    b-delay03 "><img src="images/link-ico.png" alt="" /></h2>
