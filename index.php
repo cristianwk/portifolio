@@ -451,8 +451,10 @@ function hg_request($parametros, $chave = null, $endpoint = 'weather')
 						<div class="item">
 							<h2><img src="images/busca_cep.PNG" title="Busca CEP" style="width: 100px; height: 100px;" /></h2>
 							<div class="carousel-caption caption">
-								<h3><?php echo $lang['titulo5']; ?></h3>
-								<p><?php echo $lang['texto5']; ?></p>
+								<a href="http://buscacep.consultoriawk.com/">
+									<h3><?php echo $lang['titulo5']; ?></h3>
+									<p><?php echo $lang['texto5']; ?></p>
+								</a>
 							</div>
 						</div>
 						<div class="item">
