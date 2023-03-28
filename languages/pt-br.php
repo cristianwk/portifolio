@@ -8,11 +8,11 @@ $lang = array(
 
 	"cargo" => "Analista de Sistemas",
 
-	"descricao" => "Oá, me chamo Cristian Marques. Trabalho com Desenvolvimento Web.
+	"descricao" => "Olá, me chamo Cristian Marques. Trabalho com Desenvolvimento Web.
 
 						<br>Sou especialista em criação de sistemas,
 
-						<br>Páginas Instituicionais e Marketing Digital.
+						<br>Páginas Instituicionais, SaaS e Marketing Digital.
 
 						<br>Formado em Análise e desenvolvimento Web e Pós-graduado em Gestão de Projetos.
 						</h4>",

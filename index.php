@@ -312,7 +312,7 @@ function hg_request($parametros, $chave = null, $endpoint = 'weather')
 			</div>
 			<div class="col-md-6 divice-info">
 				<h3><?php echo $lang['titulo1']; ?></h3>
-				<p>
+				<p class="text-info">
 					<?php echo $lang['textoResponsivo']; ?>
 				</p>
 				<!-- <a class="btn btn-primary btn-red" href="#"><?php echo $lang['lermais']; ?><span> </span></a> -->
