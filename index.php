@@ -310,7 +310,7 @@ function hg_request($parametros, $chave = null, $endpoint = 'weather')
 			<div class="col-md-6 divice">
 				<img class="img-responsive" src="images/wk_cel.jpg" title="divice" style="width: 250px;margin-left: 90px;" />
 			</div>
-			<div class="col-md-6 divice-info">
+			<div class="col-md-6 divice-info text-info">
 				<h3><?php echo $lang['titulo1']; ?></h3>
 				<p class="text-info">
 					<?php echo $lang['textoResponsivo']; ?>
